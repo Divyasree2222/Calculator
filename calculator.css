@@ -1,0 +1,39 @@
+body{
+        background-color: black;
+      }
+
+      .js-calculation{
+        color: white;
+        font-size: 40px;
+        font-weight: bold;
+      }
+
+      .not-symbol-button{
+        padding:  19px 24px;
+        border-radius: 40px;
+        background-color: rgb(54, 54, 53);
+        color: white;
+        font-size: 20px;
+        margin-right: 10px;
+      }
+
+      .dot-button{
+        padding-top: 19px;
+        padding-bottom: 18px;
+        padding-left: 27px;
+        padding-right: 27px;
+        border-radius: 50px;
+        background-color: rgb(54, 54, 53);
+        color: white;
+        font-size: 20px;
+        margin-right: 10px;
+      }
+
+      .symbol-button{
+        padding: 19px 27px;
+        border-radius: 40px;
+        font-size: 20px;
+        background-color: rgb(244, 173, 40);
+        border: none;
+        color: white;
+      }
